@@ -14,10 +14,15 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
         <img align="center" alt="css" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
    </div><br/>
+   
+   ## 🚀 Sobre mim<br/>
+   
 Sou apaixonado por tecnologia. Recentemente, entrei no mundo da programação e me apaixonei ainda mais. Adoro "brincar" com os códigos, sempre buscando aprender e evoluir. Cada desafio é uma oportunidade para crescer, e estou determinado a dominar as mais novas tecnologias.<br/>
 
-### E-mail para contato
+## Feedback
 
+Se você tiver algum feedback, por favor nos deixe saber por meio do e-mail a seguir:
 - [nevesvinicius888@gmail.com]()
+
 
 
