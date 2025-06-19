@@ -17,7 +17,7 @@
    
    ## 🚀 Sobre mim<br/>
    
-Sou apaixonado por tecnologia. Recentemente, entrei no mundo da programação e me apaixonei ainda mais. Adoro "brincar" com os códigos, sempre buscando aprender e evoluir. Cada desafio é uma oportunidade para crescer, e estou determinado a dominar as mais novas tecnologias.<br/>
+Desenvolvedor de Software focado em back-end, automação de processos e integração de dados. Experiência com Python, SQL, VBA, APIs e desenvolvimento de chatbots. Atualmente atuo na área de dados no setor de energia (Grupo Energisa), com projetos voltados à produtividade e integração de sistemas.<br/>
 
 ## Feedback
 
